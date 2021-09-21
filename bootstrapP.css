@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&family=Poppins:wght@400;500;600;700;800;900&display=swap');
+body    {
+    overflow-x: hidden;
+    font-family: poppins;
+}
+.premium {
+    color: #2e2e2e;
+    font-family: poppins;
+}
+.premium-container  {
+    padding-left: 9.5rem;
+}
+.lady   {
+    padding-left: 14rem;
+}
+.text   {
+    color:#808080;
+}
+.inter  {
+    font-family: inter;
+    line-height: 28px;
+}
+.wine-btn   {
+    background-color:#B00000;
+    color: #FFFFFF;
+    box-shadow: 0px 0px 64px 0px rgba(176, 0, 0, 0.3);
+}
+.fw-800 {
+    font-weight: 800;
+    font-family: inter;
+}
+.fs-18  {
+    font-size: 18px;
+    line-height: 32px;
+    color: #18191F;
+}
+.twelve{
+    font-size: 14px;
+    line-height: 18px;
+}
+.discount   {
+    background-color:#FFE87A;
+    font-size:10px;
+    font-weight: 500;
+    width: 87px;
+    height: 24px;
+    border-radius: 8px;
+    padding: 5px;   
+}
+.basic p {
+    margin: 0;
+}
+.marker  {
+    list-style-image: url("assets/Vector.svg");
+    padding-left: 45px !important;
+    padding-right: 45px;
+    margin-top: 30px;
+}
+.marker li  {
+    color:#808080;
+    line-height:35px ;
+}
+
+.ready  {
+    font-size: 50px;
+    font-weight: 600;
+    padding: 0 5rem;
+    line-height: 60px ;
+}
+.bb {
+    /* border-bottom:solid ;
+    border-color: #B00000;
+    border-width: 2.5px; */
+}
+.bb-wrapper  {
+    margin: 30px auto 50px
+}
+.b-radius   {
+    border-radius: 15px;
+    margin-right: 60px;
+}
